@@ -4,7 +4,7 @@
 🌱 Learning HTML, CSS, JS<br>
 🖥️ Running web servers, mail, and infrastructure for a small company<br>
 🤝 Open to collaborating on server hosting and self-hosted projects<br>
-⚡ AI is a tool to be productive, if you can't use it, then don't...
+⚡ AI is a tool to be productive, if you can't use it, then don't
 
 ## 💻 Tech Stack
 
