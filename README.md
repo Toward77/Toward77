@@ -1,10 +1,10 @@
 # Hi, I'm Toward 👋
 
 🔭 Building websites and keeping servers alive<br>
-🌱 Learning HTML, CSS, JS — building things badly until they work<br>
+🌱 Learning HTML, CSS, JS<br>
 🖥️ Running web servers, mail, and infrastructure for a small company<br>
 🤝 Open to collaborating on server hosting and self-hosted projects<br>
-⚡ AI writes a lot of my code — I make sure I understand what ships
+⚡ AI is a tool to be productive, if you can't use it, then don't...
 
 ## 💻 Tech Stack
 
